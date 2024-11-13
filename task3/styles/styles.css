@@ -1,0 +1,37 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+div {
+	margin: 20px;
+	min-width: 620px;
+}
+
+table {
+	border: 2px solid black;
+	margin: 0 auto;
+}
+
+tr:nth-child(even) td:nth-child(odd),
+tr:nth-child(odd) td:nth-child(even) {
+	background-color: rgb(213, 213, 213);
+}
+
+tr {
+	display: block;
+	padding: 3px;
+}
+
+td {
+	width: 70px;
+	height: 70px;
+	text-align: center;
+	font-size: 50px;
+}
+
+td:hover {
+	color: red;
+	cursor: pointer;
+}

@@ -1,0 +1,15 @@
+h1 {
+    text-transform: uppercase;
+    display: flex;
+}
+
+h1:before,
+h1:after {
+    content: "";
+    border-top: 5px solid black;
+    display: block;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-top: 15px;
+    width: 300px;
+}

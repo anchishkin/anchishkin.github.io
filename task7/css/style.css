@@ -1,0 +1,228 @@
+/*
+* Background Images - Practice
+* CSS Styles
+*
+*/
+
+
+/* General */
+
+* {
+    color: #FFF;
+}
+
+body {
+    background:
+        url('../img/bg.png'),
+        #383838;
+    font-family: "Open Sans", sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    max-width: 845px;
+    margin: 0 auto;
+}
+
+img {
+    width: 100%;
+    display: block;
+}
+
+/* Header */
+
+header {
+    background-image: url(../img/bg-01.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 430px;
+}
+
+#topbar {
+    background:
+        linear-gradient(rgba(0, 0, 0, 0.625), rgba(0, 0, 0, 0.234));
+
+}
+
+nav ul {
+    display: flex;
+    text-transform: uppercase;
+}
+
+li {
+    width: auto;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    cursor: pointer;
+    padding: 0px 5px 0px 5px;
+    margin-right: 20px;
+}
+
+li:hover {
+    background-color: #b71a34;
+}
+
+h1 {
+    font-size: 5em;
+    font-family: 'Metal Mania';
+    margin-top: 5%;
+    text-align: center;
+
+}
+
+.button {
+    display: block;
+    text-transform: uppercase;
+    text-align: center;
+    background: linear-gradient(90deg, hsla(360, 99%, 44%, 1) 64%, hsla(343, 80%, 65%, 1) 100%);
+}
+
+header .container .button {
+    width: 285px;
+    margin: 0 auto;
+    margin-top: 7%;
+    line-height: 55px;
+}
+
+/* Tour */
+
+#tour .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 15px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 2em;
+    margin: 50px 0px 50px;
+    text-transform: uppercase;
+}
+
+.tour-card {
+    width: 200px;
+    height: auto;
+    background-position: center;
+    background-size: cover;
+}
+
+.tour-town {
+    padding-top: 35px;
+    padding-left: 10px;
+    text-transform: uppercase;
+}
+
+.tour-place,
+.tour-date {
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.tour-date {
+    font-style: italic;
+}
+
+#tour .container .button {
+    width: 145px;
+    margin: 0 auto;
+    margin-top: 10%;
+    margin-bottom: 30%;
+    display: block;
+    line-height: 35px;
+}
+
+.madrid {
+    background-image:
+        linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+        url(../img/tour/madrid.jpg);
+}
+
+.turin {
+    background-image:
+        linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+        url(../img/tour/turin.jpg);
+}
+
+.hamburg {
+    background-image:
+        linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+        url(../img/tour/hamburg.jpg);
+}
+
+.krakow {
+    background-image:
+        linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+        url(../img/bg.png), url(../img/tour/krakow.jpg);
+}
+
+/* Gallery */
+
+#gallery .container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 17px;
+    justify-content: space-between;
+}
+
+.photo {
+    width: 270px;
+    height: 270px;
+}
+
+/* Subscribe */
+
+#subscribe {
+    height: auto;
+    background:
+        linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+        url('../img/bg-02.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+#subscribe h2 {
+    padding-top: 70px;
+}
+
+.pitch p {
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+#subscribe form {
+    text-align: center;
+    padding-bottom: 70px;
+}
+
+#subscribe form input {
+    width: 210px;
+    height: 38px;
+    border: none;
+    color: black;
+    padding-left: 10px;
+}
+
+#subscribe form button {
+    width: 126px;
+    height: 40px;
+    border: none;
+    text-transform: uppercase;
+    background: linear-gradient(90deg, hsla(360, 99%, 44%, 1) 64%, hsla(343, 80%, 65%, 1) 100%);
+    cursor: pointer;
+}
+
+/* Footer */
+
+footer {
+    margin: 30px 0 20px;
+    text-align: center;
+}
+
+.social {
+    padding-bottom: 15px;
+}

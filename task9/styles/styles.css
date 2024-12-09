@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
-@import url('../styles/_variables.css');
-@import url('../styles/_hero-section.css');
-@import url('../styles/_main.css');
-@import url('../styles/_footer.css');
-@import url('../styles/_modal.css');
+@import url('_variables.css');
+@import url('_hero-section.css');
+@import url('_main.css');
+@import url('_footer.css');
+@import url('_modal.css');
 * {
 	margin: 0;
 	padding: 0;

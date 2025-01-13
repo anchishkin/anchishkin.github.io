@@ -35,7 +35,7 @@
                             "inStock": true,
                             "description": "Stylish and warm winter jacket with a hood, water-resistant fabric, and lightweight insulation. Perfect for cold weather and outdoor activities.",
                             "images": [
-                                "images/store/Jacket.jpg"
+                                "https://github.com/anchishkin/anchishkin.github.io/blob/main/store/jacket.jpg"    
                             ]
                         }
                     ]

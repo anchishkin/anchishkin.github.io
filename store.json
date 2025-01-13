@@ -12,8 +12,8 @@
                         {
                             "id": 10101,
                             "name": "96 Nuptse Dip Dye Korea Puffer",
-                            "price": 400,
-                            "old_price": 500,
+                            "price": 400.00,
+                            "old_price": 500.00,
                             "rate": 5,
                             "label": [
                                 "New",
@@ -48,7 +48,7 @@
                             "id": 10201,
                             "name": "1996 Retro Nuptse Jacket in Black",
                             "price": 149.99,
-                            "old_price": 500,
+                            "old_price": 500.00,
                             "rate": 5,
                             "label": [
                                 "New",
@@ -82,8 +82,8 @@
                         {
                             "id": 10301,
                             "name": "Paul Quilted Nylon Puffer bomber jacket",
-                            "price": 300,
-                            "old_price": 500,
+                            "price": 300.00,
+                            "old_price": 500.00,
                             "rate": 5,
                             "label": [
                                 "New",
@@ -112,7 +112,7 @@
                             "id": 10302,
                             "name": "96 Nuptse Dip Dye bomber Jacket",
                             "price": 400.99,
-                            "old_price": 500,
+                            "old_price": 500.00,
                             "rate": 5,
                             "label": [
                                 "New",
@@ -147,7 +147,7 @@
                             "id": 10401,
                             "name": "Paradigm Chilliwack Black Label Jacket",
                             "price": 349.99,
-                            "old_price": 500,
+                            "old_price": 500.00,
                             "rate": 5,
                             "label": [
                                 "New",
@@ -178,7 +178,7 @@
                             "id": 10402,
                             "name": "Oversized real leather harrington jacket in black",
                             "price": 249.99,
-                            "old_price": 500,
+                            "old_price": 500.00,
                             "rate": 5,
                             "label": [
                                 "New",
@@ -214,8 +214,8 @@
                         {
                             "id": 10501,
                             "name": "Chilliwack jacket Bomber HUMANATURE",
-                            "price": 1195,
-                            "old_price": 2000,
+                            "price": 1195.00,
+                            "old_price": 2000.00,
                             "rate": 5,
                             "label": [
                                 "New",
@@ -245,8 +245,8 @@
                         {
                             "id": 10502,
                             "name": "Paradigm Chilliwack coat Black Label",
-                            "price": 1495,
-                            "old_price": 3000,
+                            "price": 1495.00,
+                            "old_price": 3000.00,
                             "rate": 5,
                             "label": [
                                 "New",
@@ -282,8 +282,8 @@
                         {
                             "id": 10601,
                             "name": "Men's Torrentshell 3L Rain Jacket in Brown",
-                            "price": 149,
-                            "old_price": 100,
+                            "price": 149.00,
+                            "old_price": 100.00,
                             "rate": 5,
                             "label": [
                                 "New",

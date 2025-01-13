@@ -1,0 +1,318 @@
+{
+    "storeName": "3legant.",
+    "categories": [
+        {
+            "id": 1,
+            "name": "Men's Clothing",
+            "subcategories": [
+                {
+                    "id": 101,
+                    "name": "Puffers",
+                    "products": [
+                        {
+                            "id": 10101,
+                            "name": "96 Nuptse Dip Dye Korea Puffer",
+                            "price": 400,
+                            "old_price": 500,
+                            "rate": 5,
+                            "label": [
+                                "New",
+                                "Hot"
+                            ],
+                            "discount": 50,
+                            "sizes": [
+                                "M",
+                                "L",
+                                "XL"
+                            ],
+                            "colors": [
+                                "grey",
+                                "black",
+                                "white",
+                                "red",
+                                "yellow"
+                            ],
+                            "inStock": true,
+                            "description": "Stylish and warm winter jacket with a hood, water-resistant fabric, and lightweight insulation. Perfect for cold weather and outdoor activities.",
+                            "images": [
+                                "images/store/Jacket.jpg"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 102,
+                    "name": "Gilets",
+                    "products": [
+                        {
+                            "id": 10201,
+                            "name": "1996 Retro Nuptse Jacket in Black",
+                            "price": 149.99,
+                            "old_price": 500,
+                            "rate": 5,
+                            "label": [
+                                "New",
+                                "Hot"
+                            ],
+                            "discount": 50,
+                            "sizes": [
+                                "M",
+                                "L",
+                                "XL"
+                            ],
+                            "colors": [
+                                "grey",
+                                "black",
+                                "white",
+                                "red",
+                                "yellow"
+                            ],
+                            "inStock": true,
+                            "description": "Stylish and warm winter jacket with a hood, water-resistant fabric, and lightweight insulation. Perfect for cold weather and outdoor activities.",
+                            "images": [
+                                "images/store/retro.jpg"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 103,
+                    "name": "Bombers",
+                    "products": [
+                        {
+                            "id": 10301,
+                            "name": "Paul Quilted Nylon Puffer bomber jacket",
+                            "price": 300,
+                            "old_price": 500,
+                            "rate": 5,
+                            "label": [
+                                "New",
+                                "Hot"
+                            ],
+                            "discount": 50,
+                            "sizes": [
+                                "M",
+                                "L",
+                                "XL"
+                            ],
+                            "colors": [
+                                "grey",
+                                "black",
+                                "white",
+                                "red",
+                                "yellow"
+                            ],
+                            "inStock": true,
+                            "description": "Stylish and warm winter jacket with a hood, water-resistant fabric, and lightweight insulation. Perfect for cold weather and outdoor activities.",
+                            "images": [
+                                "images/store/freestyle.jpg"
+                            ]
+                        },
+                        {
+                            "id": 10302,
+                            "name": "96 Nuptse Dip Dye bomber Jacket",
+                            "price": 400.99,
+                            "old_price": 500,
+                            "rate": 5,
+                            "label": [
+                                "New",
+                                "Hot"
+                            ],
+                            "discount": 50,
+                            "sizes": [
+                                "M",
+                                "L",
+                                "XL"
+                            ],
+                            "colors": [
+                                "grey",
+                                "black",
+                                "white",
+                                "red",
+                                "yellow"
+                            ],
+                            "inStock": true,
+                            "description": "Stylish and warm winter jacket with a hood, water-resistant fabric, and lightweight insulation. Perfect for cold weather and outdoor activities.",
+                            "images": [
+                                "images/store/bomber_jacket.jpg"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 104,
+                    "name": "Lightweight jackets",
+                    "products": [
+                        {
+                            "id": 10401,
+                            "name": "Paradigm Chilliwack Black Label Jacket",
+                            "price": 349.99,
+                            "old_price": 500,
+                            "rate": 5,
+                            "label": [
+                                "New",
+                                "Hot"
+                            ],
+                            "discount": 50,
+                            "sizes": [
+                                "40",
+                                "41",
+                                "42",
+                                "43",
+                                "44"
+                            ],
+                            "colors": [
+                                "grey",
+                                "black",
+                                "white",
+                                "red",
+                                "yellow"
+                            ],
+                            "inStock": true,
+                            "description": "Stylish and warm winter jacket with a hood, water-resistant fabric, and lightweight insulation. Perfect for cold weather and outdoor activities.",
+                            "images": [
+                                "images/store/bomber.jpg"
+                            ]
+                        },
+                        {
+                            "id": 10402,
+                            "name": "Oversized real leather harrington jacket in black",
+                            "price": 249.99,
+                            "old_price": 500,
+                            "rate": 5,
+                            "label": [
+                                "New",
+                                "Hot"
+                            ],
+                            "discount": 50,
+                            "sizes": [
+                                "40",
+                                "41",
+                                "42",
+                                "43",
+                                "44"
+                            ],
+                            "colors": [
+                                "grey",
+                                "black",
+                                "white",
+                                "red",
+                                "yellow"
+                            ],
+                            "inStock": true,
+                            "description": "Stylish and warm winter jacket with a hood, water-resistant fabric, and lightweight insulation. Perfect for cold weather and outdoor activities.",
+                            "images": [
+                                "images/store/oversized.jpg"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 105,
+                    "name": "Coats",
+                    "products": [
+                        {
+                            "id": 10501,
+                            "name": "Chilliwack jacket Bomber HUMANATURE",
+                            "price": 1195,
+                            "old_price": 2000,
+                            "rate": 5,
+                            "label": [
+                                "New",
+                                "Hot"
+                            ],
+                            "discount": 50,
+                            "sizes": [
+                                "40",
+                                "41",
+                                "42",
+                                "43",
+                                "44"
+                            ],
+                            "colors": [
+                                "grey",
+                                "black",
+                                "white",
+                                "red",
+                                "yellow"
+                            ],
+                            "inStock": true,
+                            "description": "Stylish and warm winter jacket with a hood, water-resistant fabric, and lightweight insulation. Perfect for cold weather and outdoor activities.",
+                            "images": [
+                                "images/store/chilw.jpg"
+                            ]
+                        },
+                        {
+                            "id": 10502,
+                            "name": "Paradigm Chilliwack coat Black Label",
+                            "price": 1495,
+                            "old_price": 3000,
+                            "rate": 5,
+                            "label": [
+                                "New",
+                                "Hot"
+                            ],
+                            "discount": 50,
+                            "sizes": [
+                                "40",
+                                "41",
+                                "42",
+                                "43",
+                                "44"
+                            ],
+                            "colors": [
+                                "grey",
+                                "black",
+                                "white",
+                                "red",
+                                "yellow"
+                            ],
+                            "inStock": true,
+                            "description": "Stylish and warm winter jacket with a hood, water-resistant fabric, and lightweight insulation. Perfect for cold weather and outdoor activities.",
+                            "images": [
+                                "images/store/paradigm.jpg"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 106,
+                    "name": "Rainwear",
+                    "products": [
+                        {
+                            "id": 10601,
+                            "name": "Men's Torrentshell 3L Rain Jacket in Brown",
+                            "price": 149,
+                            "old_price": 100,
+                            "rate": 5,
+                            "label": [
+                                "New",
+                                "Hot"
+                            ],
+                            "discount": 50,
+                            "sizes": [
+                                "40",
+                                "41",
+                                "42",
+                                "43",
+                                "44"
+                            ],
+                            "colors": [
+                                "grey",
+                                "black",
+                                "white",
+                                "red",
+                                "yellow"
+                            ],
+                            "inStock": true,
+                            "description": "Stylish and warm winter jacket with a hood, water-resistant fabric, and lightweight insulation. Perfect for cold weather and outdoor activities.",
+                            "images": [
+                                "images/store/rainwear.jpg"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
